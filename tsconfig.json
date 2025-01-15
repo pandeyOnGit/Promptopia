@@ -22,6 +22,6 @@
       "@*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/create-prompt/page.tsx", "utils/database.ts", "models/user.ts", "components/Form.jsx", "components/Feed.tsx", "components/Nav.tsx", "components/Provider.tsx", "components/Profile.tsx", "components/PromptCard.tsx", "app/page.tsx", "tailwind.config.ts", "next.config.ts", "app/layout.tsx", "app/api/auth/[...nextauth]/route.ts", "app/api/prompt/new/route.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/create-prompt/page.tsx", "utils/database.ts", "models/user.ts", "components/Form.tsx", "components/Feed.tsx", "components/Nav.tsx", "components/Provider.tsx", "components/Profile.tsx", "components/PromptCard.tsx", "app/page.tsx", "tailwind.config.ts", "next.config.ts", "app/layout.tsx", "app/api/auth/[...nextauth]/route.ts", "app/api/prompt/new/route.ts"],
   "exclude": ["node_modules"]
 }
