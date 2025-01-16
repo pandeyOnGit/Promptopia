@@ -11,7 +11,7 @@ interface Creator {
   image: string;
 }
 
-interface Post {
+export interface Post {
   _id: string;
   prompt: string;
   tag: string;
